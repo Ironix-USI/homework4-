@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+MERGED from [com.android.support:design:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/409664307784fac98b62f42b122055b2/design-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/73cb7fe4cec2c6b6db54b1bcf4f6e1e2/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/8f32eebf29e1f4cbfd16a96b46f21dcd/support-v4-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/6ed615bf7ea27792123d4043d0989a11/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/99366e2bff6059c840504cefddf3ce8e/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/cbfcb97d4055381b3ee5e325b620fb44/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/357d6f8aaf94a2596c17ba11dea2aec8/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/3fd76e5d38b161a16bbef3fe7b4af438/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/2bcbe8d858f72643ce46ab2153546f53/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/9b2fa1423a14152329ccd0920a5a1256/transition-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/73699325d694b2267d29095e4aca3331/support-media-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/55960d5bb2d6c256301c921cdc34f680/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/9e9a1743b580db681eabb8cda7308dc2/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/ff6042b52474dc2943f56124ea6baee5/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/99661bb6907db1606033b3aca89bf4d2/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/0d99dbbc5a434fcb5dfb56cb898d85b5/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+	package
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:17:5-54
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:1-37:12
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:19:5-35:19
+	android:supportsRtl
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.navdrawerexperiment.MainActivity
+ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:26:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/409664307784fac98b62f42b122055b2/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/409664307784fac98b62f42b122055b2/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/73cb7fe4cec2c6b6db54b1bcf4f6e1e2/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/73cb7fe4cec2c6b6db54b1bcf4f6e1e2/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/8f32eebf29e1f4cbfd16a96b46f21dcd/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/8f32eebf29e1f4cbfd16a96b46f21dcd/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/6ed615bf7ea27792123d4043d0989a11/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/6ed615bf7ea27792123d4043d0989a11/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/99366e2bff6059c840504cefddf3ce8e/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/99366e2bff6059c840504cefddf3ce8e/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/cbfcb97d4055381b3ee5e325b620fb44/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/cbfcb97d4055381b3ee5e325b620fb44/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/357d6f8aaf94a2596c17ba11dea2aec8/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/357d6f8aaf94a2596c17ba11dea2aec8/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/3fd76e5d38b161a16bbef3fe7b4af438/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/3fd76e5d38b161a16bbef3fe7b4af438/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/2bcbe8d858f72643ce46ab2153546f53/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/2bcbe8d858f72643ce46ab2153546f53/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/9b2fa1423a14152329ccd0920a5a1256/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/9b2fa1423a14152329ccd0920a5a1256/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/73699325d694b2267d29095e4aca3331/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/73699325d694b2267d29095e4aca3331/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/55960d5bb2d6c256301c921cdc34f680/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/55960d5bb2d6c256301c921cdc34f680/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/9e9a1743b580db681eabb8cda7308dc2/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/9e9a1743b580db681eabb8cda7308dc2/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/ff6042b52474dc2943f56124ea6baee5/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/ff6042b52474dc2943f56124ea6baee5/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/99661bb6907db1606033b3aca89bf4d2/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/99661bb6907db1606033b3aca89bf4d2/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/0d99dbbc5a434fcb5dfb56cb898d85b5/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/weimengpu/.gradle/caches/transforms-2/files-2.1/0d99dbbc5a434fcb5dfb56cb898d85b5/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weimengpu/Documents/GitHub/homework4/app/src/main/AndroidManifest.xml

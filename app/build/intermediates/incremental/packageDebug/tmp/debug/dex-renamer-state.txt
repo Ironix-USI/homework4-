@@ -1,0 +1,4 @@
+#Sun Oct 27 14:07:23 CET 2019
+base.0=/Users/weimengpu/Documents/GitHub/homework4/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
